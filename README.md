@@ -1,7 +1,7 @@
 - 👋 ***Hi, we are DataFast Proxies!**
 - :signal_strength: Definitive Solution in **IPv6 Proxy**!
   <br/>Anonymous **IPv6 Proxy**, undetectable on L2 and L3 Layers of the OSI model, </br>100% no DSN leak, no Header leak.
-- :earth_americas: IPv6 Proxy Geographically Referenced (Geographically Located).
+- :earth_americas: **IPv6 Proxy** Geographically Referenced (Geographically Located).
 - :heavy_check_mark: Rotating or Static **IPv6 Proxy** (Configurable).
 - :heavy_check_mark: Dedicated **IPv6 Proxy** (Virgin IP Proxy).
 - :heavy_check_mark: 100% Private **IPv6 Proxy**
